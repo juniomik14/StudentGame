@@ -1,0 +1,27 @@
+#s-b6ad7faf-d328-45bf-ba2e-ad50a96c3e4f #s-Text_3 {
+  -ms-filter:  progid:DXImageTransform.Microsoft.Matrix(SizingMethod = 'auto expand',M11=0.6018150231520483,M12=-0.7986355100472928,M21=0.7986355100472928,M22=0.6018150231520483);
+  filter:  progid:DXImageTransform.Microsoft.Matrix(SizingMethod = 'auto expand',M11=0.6018150231520483,M12=-0.7986355100472928,M21=0.7986355100472928,M22=0.6018150231520483);
+  margin-left: -4px;
+  margin-top: -136px;
+}
+#s-b6ad7faf-d328-45bf-ba2e-ad50a96c3e4f #s-line-grey {
+  rotation: 0.0;
+  margin-left: 0px;
+  margin-top: 0px;
+}
+#s-b6ad7faf-d328-45bf-ba2e-ad50a96c3e4f #s-line-green {
+  rotation: 0.0;
+  margin-left: 0px;
+  margin-top: 0px;
+}
+#jim-container .ui-page {
+  overflow-x: hidden;
+}
+.non_jim_mobile #simulation {
+  overflow-x: hidden;
+}
+#s-b6ad7faf-d328-45bf-ba2e-ad50a96c3e4f > #loadMark {
+  width: 1px;
+  visibility: hidden;
+  display: none;
+}

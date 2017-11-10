@@ -1,0 +1,91 @@
+#s-b6ad7faf-d328-45bf-ba2e-ad50a96c3e4f > #backgroundBox {
+  background-color: transparent;
+  background-image: none;
+  position: absolute;
+}
+#s-b6ad7faf-d328-45bf-ba2e-ad50a96c3e4f > #alignmentBox {
+  position: relative;
+  width: 100%;
+  height: 100%;
+}
+#s-b6ad7faf-d328-45bf-ba2e-ad50a96c3e4f #s-Text_3 {
+  position: absolute;
+  top: 198px;
+  left: -55px;
+  width: 458px;
+  height: 239px;
+  background-color: transparent;
+  background-image: none;
+  -webkit-transform: rotate(53deg);
+  -moz-transform: rotate(53deg);
+  transform: rotate(53deg);
+  box-shadow: none;
+  text-shadow: none;
+  font-size: 48.0pt;
+  font-family: 'Roboto-Light',Arial;
+}
+#s-b6ad7faf-d328-45bf-ba2e-ad50a96c3e4f #s-Text_3 .valign {
+  vertical-align: middle;
+  text-align: left;
+}
+#s-b6ad7faf-d328-45bf-ba2e-ad50a96c3e4f #s-Text_3 span {
+  color: #808080;
+  text-align: left;
+  text-decoration: none;
+  font-family: 'Roboto-Light',Arial;
+  font-size: 48.0pt;
+}
+#s-b6ad7faf-d328-45bf-ba2e-ad50a96c3e4f #s-Text_3 span#rtr-s-Text_3_0 {
+  color: #808080;
+  text-align: left;
+  text-decoration: none;
+  font-family: 'Roboto-Light',Arial;
+  font-size: 48.0pt;
+  line-height: 0px;
+}
+#s-b6ad7faf-d328-45bf-ba2e-ad50a96c3e4f #s-Progress-bar {
+  position: absolute;
+  top: 604px;
+  left: 23px;
+  width: 322px;
+  height: 2px;
+}
+#s-b6ad7faf-d328-45bf-ba2e-ad50a96c3e4f #s-line-grey {
+  position: absolute;
+  top: 0px;
+  left: 0px;
+  width: 322px;
+  height: 1px;
+  border-top-width: 1px;
+  border-top-style: solid;
+  border-top-color: #757575;
+  -webkit-transform: rotate(0deg);
+  -moz-transform: rotate(0deg);
+  transform: rotate(0deg);
+  box-shadow: none;
+}
+#s-b6ad7faf-d328-45bf-ba2e-ad50a96c3e4f #s-line-green {
+  position: absolute;
+  top: 0px;
+  left: 0px;
+  width: 322px;
+  height: 2px;
+  border-top-width: 2px;
+  border-top-style: solid;
+  border-top-color: #08AE9E;
+  -webkit-transform: rotate(0deg);
+  -moz-transform: rotate(0deg);
+  transform: rotate(0deg);
+  box-shadow: none;
+}
+#jim-container .ui-page {
+  overflow-x: hidden;
+}
+.non_jim_mobile #simulation {
+  overflow-x: hidden;
+}
+#s-b6ad7faf-d328-45bf-ba2e-ad50a96c3e4f > #loadMark {
+  width: 1px;
+  visibility: hidden;
+  display: none;
+}
