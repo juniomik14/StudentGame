@@ -1,3 +1,7 @@
 <resources>
     <string name="app_name">Student Game</string>
+    <string name="ButtonStartGame">Empezar Partida</string>
+    <string name="TittleAppStudent">¡Student</string>
+    <string name="TittleAppGame">Game!</string>
+
 </resources>
