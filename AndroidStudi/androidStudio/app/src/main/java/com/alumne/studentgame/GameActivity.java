@@ -3,11 +3,11 @@ package com.alumne.studentgame;
 import android.support.v7.app.AppCompatActivity;
 import android.os.Bundle;
 
-public class StudenGAME extends AppCompatActivity {
+public class GameActivity extends AppCompatActivity {
 
     @Override
     protected void onCreate(Bundle savedInstanceState) {
         super.onCreate(savedInstanceState);
-        setContentView(R.layout.activity_studen_game);
+        setContentView(R.layout.activity_game);
     }
 }
